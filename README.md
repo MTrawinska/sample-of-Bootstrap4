@@ -8,4 +8,4 @@ Project was completed based on "Python and Flask Bootcamp: Create Websites using
 
 Just simple and crisp project. Please do not copy or share without contacting.
 
-Check live project https://mtrawinska.github.io/sample-of-Bootstrap4/
+[LIVE] (https://mtrawinska.github.io/sample-of-Bootstrap4/)
